@@ -87,7 +87,7 @@ Dit was een van mijn eerste projecten in deze nieuwe programmeertaal, en ik wild
 
 ### Sniper Hunters
 - Overwatch Workshop
-- Mikey--
+- Mikey
 
 Dit werd gesuggereerd door een goede vriend van mij die een idee had voor een gamemode in dit videospel, maar niet wist hoe je zoiets maakte. Ik heb niet alleen dit project gemaakt, maar ik heb ook vele comments toegevoegd en alles gefocust om mijn code leesbaar te maken voor andere, zodat Mikey er van kon leren en er mee spelen.
 
